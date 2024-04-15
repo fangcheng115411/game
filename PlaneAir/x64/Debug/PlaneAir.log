@@ -1,0 +1,10 @@
+﻿  game.cpp
+E:\c++\PlaneAir\PlaneAir\game.cpp(101,14): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\c++\PlaneAir\PlaneAir\game.cpp(101,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\c++\PlaneAir\PlaneAir\game.cpp(257,14): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\c++\PlaneAir\PlaneAir\game.cpp(257,17): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\c++\PlaneAir\PlaneAir\game.cpp(258,14): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+E:\c++\PlaneAir\PlaneAir\game.cpp(258,17): warning C4838: 从“int”转换到“SHORT”需要收缩转换
+  main.cpp
+  正在生成代码...
+  PlaneAir.vcxproj -> E:\c++\PlaneAir\x64\Debug\PlaneAir.exe
